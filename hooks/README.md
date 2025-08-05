@@ -1,0 +1,1 @@
+Git hooks added to check if Readme file is in each top-leveldirectory
